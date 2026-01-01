@@ -17,7 +17,7 @@ See https://github.com/gregorurabl/loopthiswiggle_wiki/wiki for detailed informa
 ## Support & Resources
 - Documentation: This manual  
 - Other Products: [aescripts.com/authors/gregor-urabl](https://aescripts.com/authors/gregor-urabl/)  
-- Support: Available through aescripts.com  
+- Support: Available through [aescripts.com](https://aescripts.com)
 
 ---
 
