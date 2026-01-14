@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="grafik" src="https://github.com/user-attachments/assets/a018f228-cbcf-4bc1-bd8e-c57f847ff5df" />
+<p align="center" width="100%"><img width="500" height="500" alt="Loop This! Wiggle Logo" src="https://github.com/user-attachments/assets/a018f228-cbcf-4bc1-bd8e-c57f847ff5df" /></p>
 
 <h1 style="text-align: center;">Seamless wiggle loops with absolutely reproducible randomness</h1>
 
